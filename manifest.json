@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar payara-micro.jar --deploy accs-javaee8.war --port $PORT",
+  "notes":"Java EE 8 application on ACCS"
+}
