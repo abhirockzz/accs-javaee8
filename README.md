@@ -16,4 +16,4 @@ The build process will create `accs-javaee8-dist.zip` along with `accs-javaee8.w
 
 ## For details
 
-- check out the blog - [Run Java EE 8 apps on Oracle Cloud with Payara Micro]()
+- check out the blog - [Run Java EE 8 apps on Oracle Cloud with Payara Micro](https://medium.com/oracledevs/run-java-ee-8-apps-on-oracle-cloud-with-payara-micro-d9b527adaac9)
